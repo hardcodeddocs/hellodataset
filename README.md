@@ -116,3 +116,89 @@
 | Marketing & Airline Engagement |  |  |  |  |  |  |  |
 | Operational Launch |  |  |  |  |  |  |  |
 | Post-Implementation Review |  |  |  |  |  |  |  |
+
+
+# Tables for Hypothesis Testing - Lalmonirhat Airfield Research
+
+## Table 1: Testing H1 - Air Traffic and Tourism Impact Analysis
+
+| Year | Quarter | Air Traffic Metrics | Tourism Metrics | Economic Indicators |
+|------|---------|---------------------|-----------------|---------------------|
+|      |         | **Total Flights** | **Tourist Arrivals** | **Local Business Revenue (BDT)** |
+|      |         | **Passenger Traffic** | **Hotel Occupancy Rate (%)** | **Employment in Tourism Sector** |
+|      |         | **Load Factor (%)** | **Average Stay Duration (days)** | **Tax Revenue from Tourism (BDT)** |
+|      |         | **Airlines Operating** | **Tourist Spending (BDT)** | **New Tourism Businesses** |
+|      |         | **Destinations Served** | **Tourism Events/Festivals** | **Property Values in Tourist Areas** |
+|      |         | **Flight Frequency** | **Tourist Satisfaction Rating** | **Foreign Exchange Earnings** |
+
+## Table 2: Testing H2 - Infrastructure Development Impact on Operational Efficiency
+
+| Infrastructure Component | Pre-Activation Metrics | Post-Activation Metrics | Efficiency Improvement | Investment (BDT) | ROI | Operational Impact |
+|--------------------------|------------------------|-------------------------|------------------------|-----------------|-----|-------------------|
+| **Runway Upgrades** | **Aircraft Handling Capacity/day** | **Aircraft Handling Capacity/day** | **% Change** | | | **Safety Incidents** |
+| | **Max Aircraft Size** | **Max Aircraft Size** | **% Change** | | | **Operational Delays** |
+| **Terminal Facilities** | **Passenger Processing Time (min)** | **Passenger Processing Time (min)** | **% Change** | | | **Passenger Satisfaction** |
+| | **Terminal Capacity (pax/hour)** | **Terminal Capacity (pax/hour)** | **% Change** | | | **Service Quality Rating** |
+| **Navigation Systems** | **All-Weather Operation (%)** | **All-Weather Operation (%)** | **% Change** | | | **Flight Cancellations** |
+| | **Precision Approach Capability** | **Precision Approach Capability** | **% Change** | | | **Safety Rating** |
+| **Ground Handling** | **Turnaround Time (min)** | **Turnaround Time (min)** | **% Change** | | | **Operational Efficiency** |
+| | **Equipment Availability (%)** | **Equipment Availability (%)** | **% Change** | | | **Handling Delays** |
+| **Cargo Facilities** | **Cargo Handling Capacity (tons/day)** | **Cargo Handling Capacity (tons/day)** | **% Change** | | | **Cargo Processing Time** |
+| | **Storage Capacity (tons)** | **Storage Capacity (tons)** | **% Change** | | | **Cargo Damage Rate** |
+
+## Table 3: Overall Hypothesis Testing - Feasibility and Benefits Assessment
+
+| Feasibility Dimension | Indicator | Pre-Activation | Year 1 | Year 3 | Year 5 | Statistical Significance | Hypothesis Support |
+|--------------------------|-----------|----------------|--------|--------|--------|--------------------------|-------------------|
+| **Economic Benefits** | **Regional GDP Contribution (BDT)** | | | | | | |
+| | **Direct Employment Created** | | | | | | |
+| | **Indirect Employment Created** | | | | | | |
+| | **Business Investments (BDT)** | | | | | | |
+| **Social Benefits** | **Community Support (Survey %)** | | | | | | |
+| | **Population Access to Air Transport (%)** | | | | | | |
+| | **Local Skills Development (Training Programs)** | | | | | | |
+| | **Quality of Life Indicators** | | | | | | |
+| **Operational Feasibility** | **Airfield Utilization Rate (%)** | | | | | | |
+| | **Operational Days per Year** | | | | | | |
+| | **Operational Costs vs. Revenue** | | | | | | |
+| | **Safety & Compliance Rating** | | | | | | |
+| **Challenge Mitigation** | **Regulatory Compliance (% Complete)** | | | | | | |
+| | **Infrastructure Readiness (% Complete)** | | | | | | |
+| | **Stakeholder Satisfaction (Survey %)** | | | | | | |
+| | **Environmental Impact Mitigation (Rating)** | | | | | | |
+
+## Table 4: Comparative Analysis of Pre/Post Activation - Key Performance Indicators
+
+| Key Performance Indicator | Baseline (Pre-Activation) | Target | Year 1 Results | Year 3 Results | Year 5 Results | Statistical Analysis | Correlation with Hypotheses |
+|-----------------------------|---------------------------|--------|---------------|---------------|---------------|----------------------|----------------------------|
+| **Air Connectivity Index** | | | | | | | |
+| **Regional Transport Cost Index** | | | | | | | |
+| **Local Business Growth Rate (%)** | | | | | | | |
+| **Tourism Growth Rate (%)** | | | | | | | |
+| **Employment Growth Rate (%)** | | | | | | | |
+| **Airport Revenue (BDT)** | | | | | | | |
+| **Operational Efficiency Rating** | | | | | | | |
+| **Safety Incident Rate** | | | | | | | |
+| **Customer Satisfaction Score** | | | | | | | |
+| **Environmental Impact Score** | | | | | | | |
+
+## Table 5: Factors Affecting Hypothesis Outcomes - Variable Analysis
+
+| Factor Category | Variable | Measurement Method | Baseline Value | Change Over Time | Correlation with H1 | Correlation with H2 | Overall Hypothesis Impact |
+|-----------------|----------|-------------------|----------------|------------------|---------------------|---------------------|--------------------------|
+| **External Factors** | **National Economic Growth (%)** | | | | | | |
+| | **Regional Development Initiatives** | | | | | | |
+| | **Competing Transportation Options** | | | | | | |
+| | **Policy Environment** | | | | | | |
+| **Investment Factors** | **Total Investment Amount (BDT)** | | | | | | |
+| | **Investment Timing** | | | | | | |
+| | **Investment Source (Public/Private %)** | | | | | | |
+| | **Investment Allocation by Component (%)** | | | | | | |
+| **Operational Factors** | **Management Structure** | | | | | | |
+| | **Airline Partnerships** | | | | | | |
+| | **Pricing Strategy** | | | | | | |
+| | **Route Development** | | | | | | |
+| **Local Factors** | **Community Engagement Level** | | | | | | |
+| | **Local Business Participation** | | | | | | |
+| | **Regional Tourism Development** | | | | | | |
+| | **Infrastructure Integration** | | | | | | |
