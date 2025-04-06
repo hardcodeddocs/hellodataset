@@ -203,7 +203,119 @@
 | **F-statistic** | **78.9** | **df=5,94** | **p<0.0001** |
 | **Conclusion** | **Hypothesis H2 is supported (p<0.05)** | **Infrastructure factors significantly predict operational efficiency** |
 
-## 5. Key Findings Summary
+# Dummy Data and Hypothesis Testing Results for Infrastructure Development and Operational Efficiency
+
+## 1. Infrastructure Condition Assessment Data (Dummy)
+
+### Table 1: Current Infrastructure Assessment Results
+
+| Infrastructure Component | Current Condition Rating (1-5) | Urgency of Upgrade (1-5) | Estimated Cost Range (Million BDT) | Specific Issues Noted |
+|--------------------------|-------------------------------|-------------------------|---------------------|------------------------|
+| Main Runway | 2 | 5 | 750-900 | Surface cracking, insufficient length (1500m) for commercial aircraft |
+| Taxiways | 2 | 4 | 150-200 | Limited connectivity, surface deterioration |
+| Apron Area | 2 | 4 | 120-180 | Insufficient size, poor surface quality |
+| Terminal Building | 1 | 5 | 350-450 | Dilapidated structure, inadequate for passenger processing |
+| Air Traffic Control Tower | 2 | 5 | 180-250 | Outdated equipment, poor visibility coverage |
+| Navigation Systems | 1 | 5 | 280-350 | Lack of modern ILS, radar systems non-functional |
+| Ground Support Equipment | 1 | 4 | 150-200 | Limited equipment, mostly obsolete |
+| Access Roads | 3 | 3 | 80-120 | Moderate condition, requires widening |
+| Utilities (Power/Water) | 2 | 4 | 100-150 | Unreliable power supply, inadequate water system |
+| Security Systems | 1 | 5 | 120-180 | Minimal existing security infrastructure |
+
+*Rating Scale: 1=Poor, 2=Fair, 3=Average, 4=Good, 5=Excellent*  
+*Urgency Scale: 1=Low urgency, 5=Critical urgency*
+
+### Table 2: Compliance with International Standards Assessment
+
+| Regulatory Requirement | Current Compliance | Gap Assessment | Timeline for Compliance (months) | Priority Level (1-5) |
+|------------------------|-------------------|----------------|----------------------------------|-------------------|
+| ICAO Annex 14 Standards | Partial | Major runway and safety area deficiencies | 24-36 | 5 |
+| Security Requirements | No | Comprehensive security systems needed | 18-24 | 5 |
+| Environmental Regulations | Partial | Noise management and waste treatment inadequate | 12-18 | 3 |
+| Emergency Response | No | No ARFF capabilities or emergency plan | 12-18 | 5 |
+| Passenger Facilities | No | Complete terminal development required | 24-30 | 4 |
+| Cargo Handling | No | No dedicated cargo facilities exist | 18-24 | 3 |
+
+## 2. Pre-Development Operational Baseline (Dummy)
+
+### Table 3: Current Operational Efficiency Metrics
+
+| Efficiency Indicator | Current Performance | Industry Benchmark | Gap (%) | Improvement Target |
+|----------------------|---------------------|-------------------|-------------|-------------------|
+| Aircraft Turnaround Time | 65 minutes | 45 minutes | 44.4% | 50 minutes |
+| Passenger Processing Time | 25 minutes | 15 minutes | 66.7% | 18 minutes |
+| Baggage Handling Time | 22 minutes | 12 minutes | 83.3% | 15 minutes |
+| Check-in Process Time | 18 minutes | 8 minutes | 125% | 10 minutes |
+| Security Screening Time | 15 minutes | 7 minutes | 114.3% | 9 minutes |
+| Customs/Immigration Processing | 22 minutes | 12 minutes | 83.3% | 14 minutes |
+| Gate Utilization Rate | 30% | 65% | -53.8% | 50% |
+| Facility Utilization Rate | 25% | 70% | -64.3% | 55% |
+
+## 3. Stakeholder Interview Data Synthesis (Dummy)
+
+### Table 4: Key Infrastructure Priorities Identified by Stakeholders
+
+| Infrastructure Component | Mentioned as Priority (% of respondents) | Average Priority Score (1-10) | Expected Impact on Operations (1-10) | ROI Rating (1-10) |
+|--------------------------|------------------------------------------|-------------------------------|-------------------------------------|------------------|
+| Runway Extension & Resurfacing | 95% | 9.2 | 9.5 | 8.7 |
+| Terminal Building | 90% | 8.9 | 8.4 | 7.9 |
+| Navigation Systems | 85% | 8.7 | 9.3 | 8.5 |
+| Air Traffic Control | 80% | 8.5 | 9.0 | 8.2 |
+| Security Infrastructure | 75% | 7.8 | 7.5 | 7.3 |
+| Ground Support Equipment | 70% | 7.5 | 8.2 | 7.8 |
+| Access Infrastructure | 65% | 6.8 | 6.5 | 7.0 |
+| Cargo Facilities | 50% | 6.2 | 5.8 | 6.5 |
+
+## 4. Post-Development Projected Improvements (Dummy)
+
+### Table 5: Projected Operational Efficiency Improvements After Infrastructure Development
+
+| Efficiency Indicator | Current Performance | Post-Development Projection | Improvement (%) | Industry Benchmark Met? |
+|----------------------|---------------------|----------------------------|----------------|------------------------|
+| Aircraft Turnaround Time | 65 minutes | 48 minutes | 26.2% | No (45 min) |
+| Passenger Processing Time | 25 minutes | 16 minutes | 36.0% | Almost (15 min) |
+| Baggage Handling Time | 22 minutes | 14 minutes | 36.4% | No (12 min) |
+| Check-in Process Time | 18 minutes | 9 minutes | 50.0% | Almost (8 min) |
+| Security Screening Time | 15 minutes | 8 minutes | 46.7% | Almost (7 min) |
+| Customs/Immigration Processing | 22 minutes | 15 minutes | 31.8% | No (12 min) |
+| Gate Utilization Rate | 30% | 55% | 83.3% | No (65%) |
+| Facility Utilization Rate | 25% | 58% | 132.0% | No (70%) |
+
+## 5. Correlation Analysis Results (Dummy)
+
+### Table 6: Correlation Between Infrastructure Investment and Operational Improvement
+
+| Infrastructure Component | Investment Level (Million BDT) | Primary Operational Metric | Improvement Correlation Coefficient | Statistical Significance (p-value) |
+|--------------------------|-------------------------------|---------------------------|-------------------------------------|-----------------------------------|
+| Runway Upgrades | 825 | Aircraft Turnaround Time | 0.78 | 0.007 |
+| Terminal Modernization | 400 | Passenger Processing Time | 0.82 | 0.005 |
+| Navigation Systems | 320 | Aircraft Turnaround Time | 0.75 | 0.009 |
+| Ground Support Equipment | 175 | Baggage Handling Time | 0.80 | 0.006 |
+| Security Systems | 150 | Security Screening Time | 0.73 | 0.012 |
+| Access Infrastructure | 100 | Facility Utilization Rate | 0.65 | 0.028 |
+
+## 6. Hypothesis Testing Results (Dummy)
+
+### Table 7: Statistical Analysis of Hypothesis 2
+
+| Test Parameter | Value | Interpretation |
+|----------------|-------|---------------|
+| Correlation Coefficient (r) | 0.78 | Strong positive correlation between infrastructure development and operational efficiency |
+| Coefficient of Determination (r²) | 0.61 | 61% of variation in operational efficiency explained by infrastructure development |
+| t-statistic | 5.87 | Significant at p<0.01 |
+| p-value | 0.0021 | Strong statistical significance |
+| 95% Confidence Interval | 0.68-0.88 | Range of correlation strength |
+| Effect Size (Cohen's d) | 1.72 | Large effect size |
+
+### Hypothesis Test Conclusion:
+
+The data strongly supports Hypothesis 2, indicating that addressing the logistical challenges related to infrastructure development will significantly improve the operational efficiency of Lalmonirhat Airfield. There is a statistically significant correlation (r=0.78, p=0.0021) between infrastructure investment and improvements in operational efficiency metrics. 
+
+The analysis shows that investments in runway upgrades, terminal modernization, and navigation systems yield the highest correlations with operational efficiency improvements. These findings suggest that prioritizing these three infrastructure components would provide the greatest impact on operational efficiency in the initial development phase.
+
+The coefficient of determination (r²=0.61) indicates that approximately 61% of the variation in operational efficiency metrics can be explained by infrastructure development initiatives, suggesting that while infrastructure is a critical factor, other variables such as operational procedures, staff training, and management practices also contribute to overall efficiency.
+
+# Key Findings Summary
 
 1. **Stakeholder Support**: Overall strong support (4.3/5) for airfield activation across stakeholder groups, with business owners showing highest support (4.7/5).
 
